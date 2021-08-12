@@ -1,0 +1,509 @@
+{
+  "dataset": [
+    {
+      "address": "Сан-Паулу",
+      "latitude": 42.3141419577,
+      "longitude": -83.1221815483
+    },
+    {
+      "address": "Рио-де-Жанейро",
+      "latitude": -22.905722,
+      "longitude": -43.189130
+    },
+    {
+      "address": "Бразилиа",
+      "latitude": -15.802118,
+      "longitude": -47.889071
+    },
+    {
+      "address": "Салвадор",
+      "latitude": -12.999786,
+      "longitude": -38.465842
+    },
+    {
+      "address": "Форталеза",
+      "latitude": -3.730933,
+      "longitude": -38.525167
+    },
+    {
+      "address": "Белу-Оризонти",
+      "latitude": -19.914460,
+      "longitude": -43.940131
+    },
+    {
+      "address": "Манаус",
+      "latitude": -3.127986,
+      "longitude": -60.021987
+    },
+    {
+      "address": "Куритиба",
+      "latitude": -25.459532,
+      "longitude": -49.248492
+    },
+    {
+      "address": "Ресифи",
+      "latitude": -8.060491,
+      "longitude": -34.871809
+    },
+    {
+      "address": "Гояния",
+      "latitude": -16.685592,
+      "longitude": -49.260430
+    },
+    {
+      "address": "Белен",
+      "latitude": -1.451889,
+      "longitude": -48.481492
+    },
+    {
+      "address": "Порту-Алегри",
+      "latitude": -30.068891,
+      "longitude": -51.210888
+    },
+    {
+      "address": "Гуарульюс",
+      "latitude": -23.454,
+      "longitude": -46.5337
+    },
+    {
+      "address": "Кампинас",
+      "latitude": -22.915591,
+      "longitude": -47.063986
+    },
+    {
+      "address": "Сан-Луис",
+      "latitude": -2.499290,
+      "longitude": -44.275786
+    },
+    {
+      "address": "Сан-Гонсалу",
+      "latitude": -19.850870,
+      "longitude": -43.929387
+    },
+    {
+      "address": "Масейо",
+      "latitude": -9.607947,
+      "longitude": -35.728388
+    },
+    {
+      "address": "Дуки-ди-Кашиас",
+      "latitude": -27.037191,
+      "longitude": -51.294090
+    },
+    {
+      "address": "Кампу-Гранди",
+      "latitude": -26.551492,
+      "longitude": -53.196991
+    },
+    {
+      "address": "Натал",
+      "latitude": -5.805689,
+      "longitude": -35.230587
+    },
+    {
+      "address": "Терезина",
+      "latitude": -5.095794,
+      "longitude": -42.804687
+    },
+    {
+      "address": "Сан-Бернарду-ду-Кампу",
+      "latitude": -23.720523,
+      "longitude": -46.561289
+    },
+    {
+      "address": "Нова",
+      "latitude": -22.859051,
+      "longitude": -43.665489
+    },
+    {
+      "address": "Жуан-Песоа",
+      "latitude": -7.093088,
+      "longitude": -34.850582
+    },
+    {
+      "address": "Санту-Андре",
+      "latitude": -22.270187,
+      "longitude": -42.702091
+    },
+    {
+      "address": "Сан-Жозе-дус-Кампус",
+      "latitude": -23.206186,
+      "longitude": -45.875686
+    },
+    {
+      "address": "Риу Жабуатан",
+      "latitude": -8.142691,
+      "longitude": -34.977127
+    },
+    {
+      "address": "Озаску",
+      "latitude": -23.544279,
+      "longitude": -46.636972
+    },
+    {
+      "address": "Рибейран-Прету",
+      "latitude": -21.176684,
+      "longitude": -47.806426
+    },
+    {
+      "address": "Уберландия",
+      "latitude": -18.922363,
+      "longitude": -48.277071
+    },
+    {
+      "address": "Контажен",
+      "latitude": -19.914452,
+      "longitude": -43.940122
+    },
+    {
+      "address": "Сорокаба",
+      "latitude": -23.497386,
+      "longitude": -47.463090
+    },
+    {
+      "address": "Аракажу",
+      "latitude": -10.898590,
+      "longitude": -37.049792
+    },
+    {
+      "address": "Фейра-ди-Сантана",
+      "latitude": -12.250292,
+      "longitude": -38.959889
+    },
+    {
+      "address": "Куяба",
+      "latitude": -16.339194,
+      "longitude": -56.189486
+    },
+    {
+      "address": "Жоинвили",
+      "latitude": -26.312788,
+      "longitude": -48.847394
+    },
+    {
+      "address": "Жуис-ди-Фора",
+      "latitude": -21.753405,
+      "longitude": -43.351258
+    },
+    {
+      "address": "Лондрина",
+      "latitude": -23.297591,
+      "longitude": -51.160187
+    },
+    {
+      "address": "Апаресида-ди-Гояния",
+      "latitude": -16.802588,
+      "longitude": -49.236894
+    },
+    {
+      "address": "Ананиндеуа",
+      "latitude": -1.354690,
+      "longitude": -48.292989
+    },
+    {
+      "address": "Нитерой",
+      "latitude": -22.875892,
+      "longitude": -43.106890
+    },
+    {
+      "address": "Порту-Велью",
+      "latitude": -13.593086,
+      "longitude": -41.042588
+    },
+    {
+      "address": "Кампус-дус-Гойтаказис",
+      "latitude": -22.905722,
+      "longitude": -43.189130
+    },
+    {
+      "address": "Белфорд-Рошу",
+      "latitude": -22.735260,
+      "longitude": -43.425082
+    },
+    {
+      "address": "Серра",
+      "latitude": -22.610646,
+      "longitude": -43.689294
+    },
+    {
+      "address": "Кашиас-ду-Сул",
+      "latitude": -22.360491,
+      "longitude": -43.675191
+    },
+    {
+      "address": "Вила-Велья",
+      "latitude": -11.352792,
+      "longitude": -38.177088
+    },
+    {
+      "address": "Флорианополис",
+      "latitude": -27.581393,
+      "longitude": -48.618189
+    },
+    {
+      "address": "Сан-Жуан-ди-Мерити",
+      "latitude": -22.799589,
+      "longitude": -43.372566
+    },
+    {
+      "address": "Мауа",
+      "latitude": -22.706192,
+      "longitude": -43.158291
+    },
+    {
+      "address": "Макапа",
+      "latitude": 0.020023,
+      "longitude": -51.077452
+    },
+    {
+      "address": "Сан-Жозе-ду-Риу-Прету",
+      "latitude": -20.815668,
+      "longitude": -49.405517
+    },
+    {
+      "address": "Сантус",
+      "latitude": -23.966391,
+      "longitude": -46.307794
+    },
+    {
+      "address": "Можи-дас-Крузис",
+      "latitude": -23.521609,
+      "longitude": -46.198019
+    },
+    {
+      "address": "Бетин",
+      "latitude": -19.957692,
+      "longitude": -44.146088
+    },
+    {
+      "address": "Кампина-Гранди",
+      "latitude": -7.211093,
+      "longitude": -35.851188
+    },
+    {
+      "address": "Жундиаи",
+      "latitude": -23.447087,
+      "longitude": -50.217891
+    },
+    {
+      "address": "Маринга",
+      "latitude": -23.415737,
+      "longitude": -51.934778
+    },
+    {
+      "address": "Монтис-Кларус",
+      "latitude": -19.840593,
+      "longitude": -43.355687
+    },
+    {
+      "address": "Карапикуиба",
+      "latitude": -23.578992,
+      "longitude": -46.821091
+    },
+    {
+      "address": "Олинда",
+      "latitude": -4.611391,
+      "longitude": -42.392190
+    },
+    {
+      "address": "Пирасикаба",
+      "latitude": -22.727294,
+      "longitude": -47.631290
+    },
+    {
+      "address": "Кариасика",
+      "latitude": -20.283630,
+      "longitude": -40.234187
+    },
+    {
+      "address": "Бауру",
+      "latitude": -22.327992,
+      "longitude": -49.065487
+    },
+    {
+      "address": "Риу-Бранку",
+      "latitude": -5.970493,
+      "longitude": -64.805587
+    },
+    {
+      "address": "Анаполис",
+      "latitude": -16.333391,
+      "longitude": -48.934593
+    },
+    {
+      "address": "Сан-Висенти",
+      "latitude": -23.956088,
+      "longitude": -46.406393
+    },
+    {
+      "address": "Витория",
+      "latitude": -5.825590,
+      "longitude": -41.358993
+    },
+    {
+      "address": "Каукая",
+      "latitude": -3.789786,
+      "longitude": -38.572374
+    },
+    {
+      "address": "Итакуакесетуба",
+      "latitude": -23.485911,
+      "longitude": -46.372122
+    },
+    {
+      "address": "Каруару",
+      "latitude": -8.277886,
+      "longitude": -35.973287
+    },
+    {
+      "address": "Пелотас",
+      "latitude": -28.266687,
+      "longitude": -50.694689
+    },
+    {
+      "address": "Витория-да-Конкиста",
+      "latitude": -26.209591,
+      "longitude": -51.045787
+    },
+    {
+      "address": "Каноас",
+      "latitude": -27.555960,
+      "longitude": -50.406573
+    },
+    {
+      "address": "Франка",
+      "latitude": -20.537088,
+      "longitude": -47.388988
+    },
+    {
+      "address": "Понта-Гросса",
+      "latitude": -23.557148,
+      "longitude": -46.373218
+    },
+    {
+      "address": "Блуменау",
+      "latitude": -26.956293,
+      "longitude": -49.090990
+    },
+    {
+      "address": "Петролина",
+      "latitude": -9.396189,
+      "longitude": -40.519490
+    },
+    {
+      "address": "Паулиста",
+      "latitude": -23.555409,
+      "longitude": -46.662152
+    },
+    {
+      "address": "Рибейран-дас-Невис",
+      "latitude": -19.766393,
+      "longitude": -44.083080
+    },
+    {
+      "address": "Убераба",
+      "latitude": -19.766291,
+      "longitude": -47.926288
+    },
+    {
+      "address": "Боа-Виста",
+      "latitude": 2.822835,
+      "longitude": -60.682778
+    },
+    {
+      "address": "Парана",
+      "latitude": -25.459524,
+      "longitude": -49.248483
+    },
+    {
+      "address": "Гуаружа",
+      "latitude": -23.989890,
+      "longitude": -46.260794
+    },
+    {
+      "address": "Таубате",
+      "latitude": -23.013491,
+      "longitude": -45.553694
+    },
+    {
+      "address": "Петроплис",
+      "latitude": -22.905462,
+      "longitude": -43.189166
+    },
+    {
+      "address": "Лимейра",
+      "latitude": -22.558592,
+      "longitude": -47.398690
+    },
+    {
+      "address": "Сантарен",
+      "latitude": -2.456897,
+      "longitude": -54.717803
+    },
+    {
+      "address": "Мосоро",
+      "latitude": -5.186394,
+      "longitude": -37.340990
+    },
+    {
+      "address": "Сузану",
+      "latitude": -23.539392,
+      "longitude": -46.308494
+    },
+    {
+      "address": "Камасари",
+      "latitude": -12.696493,
+      "longitude": -38.341246
+    },
+    {
+      "address": "Говернадор-Валадарис",
+      "latitude": -12.590988,
+      "longitude": -39.021190
+    },
+    {
+      "address": "Санта-Мария",
+      "latitude": -30.584004,
+      "longitude": -54.702325
+    },
+    {
+      "address": "Граватаи",
+      "latitude": -29.946886,
+      "longitude": -50.963789
+    },
+    {
+      "address": "Табоан-да-Серра",
+      "latitude": -28.730791,
+      "longitude": -51.077093
+    },
+    {
+      "address": "Варзеа-Гранди",
+      "latitude": -27.752592,
+      "longitude": -53.102246
+    },
+    {
+      "address": "Палмас",
+      "latitude": -10.184589,
+      "longitude": -48.333692
+    },
+    {
+      "address": "Жуазейру-ду-Норти",
+      "latitude": -7.214089,
+      "longitude": -39.317688
+    },
+    {
+      "address": "Кедаш ду Игуасу",
+      "latitude": -25.456490,
+      "longitude": -52.894187
+    },
+    {
+      "address": "Сумаре",
+      "latitude": -23.082591,
+      "longitude": -52.396790
+    },
+    {
+      "address": "Эмбу-Гуасу",
+      "latitude": -23.829262,
+      "longitude": -46.814479
+    }
+  ]
+}
